@@ -1,4 +1,4 @@
-Prompt Helper:
+Writing instructions:
 
 !(Title)=["Essay Writer"]:
 +:(USER)=[Essay Writer]
